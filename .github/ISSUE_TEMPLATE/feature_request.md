@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest how to connect with live camera
 title: ''
 labels: ''
 assignees: ''
